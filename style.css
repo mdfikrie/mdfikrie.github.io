@@ -141,9 +141,9 @@ h1{
     }
     #home .img-home{
         margin:auto!important;
-        height:300px;
-        margin-top: 20px;
-        margin-left: 70px;
+        height:400px;
+        /* margin-top: 20px;
+        margin-left: 70px; */
     }
     
 }
