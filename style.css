@@ -124,26 +124,27 @@ h1{
         background-image: none;
     }
     #home h4{
-        font-size: 18px;
+        font-size: 20px;
         margin-top: 70px;
     }
     #home h1{
-        font-size: 30px;
+        font-size: 40px;
         font-weight: bold;
         color:#1a1f59;
     }
     #home p{
-        font-size: 14px;
+        font-size: 16px;
     }
     #home .btn-cv{
-        padding:5px 10px;
-        font-size: 12px;
+        padding:10px 20px;
+        font-size: 14px;
     }
     #home .img-home{
         margin:auto!important;
-        height:350px;
-        /* margin-top: 20px; */
-        margin-left: 70px;
+        height:300px;
+        /* margin-top: -50px;
+        background-color: #1a1f59;
+        margin-left: 70px; */
     }
     
 }
